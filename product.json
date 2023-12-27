@@ -1,0 +1,377 @@
+[
+    {
+      "id": "101",
+      "category_id": "1",
+      "category": "All Product",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 488,
+      "title": "Regular Fit Sweatshirt",
+      "author": {
+        "name": "John Smith",
+        "published_date": "2023-08-21"
+      },
+      "thumbnail_url": "https://tlcsport.co.uk/cdn/shop/products/sweatshirt_800x.jpg?v=1669218019",
+      "image_url": "https://tlcsport.co.uk/cdn/shop/products/sweatshirt_800x.jpg?v=1669218019",
+      "details": "Regular Fit Sweatshirt features our very own unique design, adding a touch of sophistication to your winter wardrobe."
+    },
+    {
+      "id": "102",
+      "category_id": "1",
+      "category": "All Product",
+      "rating": { "number": 3.8, "badge": "Good" },
+      "total_view": 752,
+      "title": "Black Regular Fit Sweatshirt",
+      "author": {
+        "name": "Emily Davis",
+        "published_date": "2023-08-20"
+      },
+      "thumbnail_url": "https://target.scene7.com/is/image/Target/GUEST_0201cf8f-3dcc-4ba7-b155-909bfe70fada?wid=488&hei=488&fmt=pjpeg",
+      "image_url": "https://target.scene7.com/is/image/Target/GUEST_0201cf8f-3dcc-4ba7-b155-909bfe70fada?wid=488&hei=488&fmt=pjpeg",
+      "details": "Black Regular Fit Sweatshirt features our very own unique design, adding a touch of sophistication to your winter wardrobe."
+    },
+    {
+      "id": "103",
+      "category_id": "1",
+      "category": "All Product",
+      "rating": { "number": 4.2, "badge": "Very Good" },
+      "total_view": 621,
+      "title": "Maroon Regular Fit Sweatshirt",
+      "author": {
+        "name": "Sarah Roberts",
+        "published_date": "2023-08-19"
+      },
+      "thumbnail_url": "https://cdn-img.prettylittlething.com/0/e/f/c/0efc5062405e69b6c4a7c52f115f8db84b3bc0f8_clt6860_1.jpg?imwidth=600",
+      "image_url": "https://cdn-img.prettylittlething.com/0/e/f/c/0efc5062405e69b6c4a7c52f115f8db84b3bc0f8_clt6860_1.jpg?imwidth=600",
+      "details": " Maroon Regular Fit Sweatshirt features our very own unique design, adding a touch of sophistication to your winter wardrobe."
+    },
+    {
+      "id": "104",
+      "category_id": "1",
+      "category": "All Product",
+      "rating": { "number": 4.0, "badge": "Good" },
+      "total_view": 879,
+      "title": "THIS LOOSE-FIT WINDBREAKER IS MADE IN PART WITH RECYCLED MATERIALS.",
+      "author": {
+        "name": "Michael Johnson",
+        "published_date": "2023-08-18",
+        "img": "https://xsgames.co/randomusers/assets/avatars/male/46.jpg"
+      },
+      "thumbnail_url": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/ab7d86de9a49445ea476559aec9b8c97_9366/Adicolor_Trefoil_Windbreaker_Black_IR9852.jpg",
+      "image_url": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/ab7d86de9a49445ea476559aec9b8c97_9366/Adicolor_Trefoil_Windbreaker_Black_IR9852.jpg",
+      "details": "This product is made with at least 70% recycled materials. By reusing materials that have already been created, we help to reduce waste and our reliance on finite resources and reduce the footprint of the products we make."
+    },
+    {
+      "id": "201",
+      "category_id": "2",
+      "category": "Sports",
+      "rating": { "number": 4.7, "badge": "Excellent" },
+      "total_view": 732,
+      "title": "TRIED-AND-TRUE SHOES WITH MODERN COLORS",
+      "author": {
+        "name": "Jessica Williams",
+        "published_date": "2023-08-21",
+        "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/17c13480b0c843baafa4af1500ff40fb_9366/Forum_84_Low_ADV_Shoes_White_HP9088.jpg"
+      },
+      "thumbnail_url": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/17c13480b0c843baafa4af1500ff40fb_9366/Forum_84_Low_ADV_Shoes_White_HP9088.jpg",
+      "details": "Shake up the iconic adidas Gazelle shoes with some playful colors. Originally released as an indoor soccer trainer, this stylish silhouette has gone on to shine in the fashion world. This pair shows off bold colors offset by the white laces, eyestay, tongue and lining."
+    },
+    {
+      "id": "202",
+      "category_id": "2",
+      "category": "Sports",
+      "rating": { "number": 4.2, "badge": "Very Good" },
+      "total_view": 521,
+      "title": "RUNNING-INSPIRED SHOES WITH A MODERN SHAPE AND STYLE.",
+      "author": {
+        "name": "David Thompson",
+        "published_date": "2023-08-20",
+        "img": "https://xsgames.co/randomusers/assets/avatars/female/45.jpg"
+      },
+      "thumbnail_url": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/55dc577c03ed4bdc8bddadf4000b010e_9366/Retropy_F2_Shoes_White_GW5473.jpg",
+      "image_url": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/55dc577c03ed4bdc8bddadf4000b010e_9366/Retropy_F2_Shoes_White_GW5473.jpg",
+      "details": "You like to be one step ahead. Blending retro vibes with modern design, these adidas Retropy F2 Shoes are right there with you. Rooted in '80s running style, they show off a layered material-mix upper. The sleek shape and thick EVA midsole make them ideal for today."
+    },
+    {
+      "id": "203",
+      "category_id": "2",
+      "category": "Sports",
+      "rating": { "number": 3.8, "badge": "Good" },
+      "total_view": 856,
+      "title": "A 3-STRIPES TEE DESIGNED TO MOVE, MADE IN PART WITH RECYCLED MATERIALS.",
+      "author": {
+        "name": "Maria Rodriguez",
+        "published_date": "2023-08-19",
+        "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/5efeba2b1a4143b69d9eae5300e1c30e_9366/Techfit_3-Stripes_Training_Tee_Black_HD3525.jpg"
+      },
+      "thumbnail_url": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/5efeba2b1a4143b69d9eae5300e1c30e_9366/Techfit_3-Stripes_Training_Tee_Black_HD3525.jpg",
+      "details": "Cardio to arm day, this adidas base-layer t-shirt will help you power through. Break your personal records in total comfort, thanks to mesh on the upper back where you need it most and moisture-absorbing AEROREADY. Everything about this training tee is made so you can move freely, like a dynamic shape and a super-stretchy fabric."
+    },
+    {
+      "id": "204",
+      "category_id": "2",
+      "category": "Sports",
+      "rating": { "number": 4.0, "badge": "Good" },
+      "total_view": 674,
+      "title": "3-STRIPES TIGHTS FOR INTENSE WORKOUTS, MADE IN PART WITH RECYCLED MATERIALS.",
+      "author": {
+        "name": "Alexandra Lee",
+        "published_date": "2023-08-18",
+        "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/9bc85cc2f237491b9595ae5300e26cc4_9366/Techfit_3-Stripes_Training_Long_Tights_Black_HD3530.jpg"
+      },
+      "thumbnail_url": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/9bc85cc2f237491b9595ae5300e26cc4_9366/Techfit_3-Stripes_Training_Long_Tights_Black_HD3530.jpg",
+      "image_url": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/9bc85cc2f237491b9595ae5300e26cc4_9366/Techfit_3-Stripes_Training_Long_Tights_Black_HD3530.jpg",
+      "details": "Let nothing slow you down. Move as freely as you need to during intense sessions when you wear these base-layer tights. Lunge, kick and hit the cardio hard in total comfort, thanks to a 3D sculpted pouch. Mesh details and moisture-absorbing adidas AEROREADY keep you dry and comfortable, so you can work out without distractions."
+    },
+  
+    {
+      "id": "301",
+      "category_id": "3",
+      "category": "Culture",
+      "rating": { "number": 4.6, "badge": "Excellent" },
+      "total_view": 912,
+      "title": "Teal Embroidered Kurta Set With Gota Patti Detail",
+      "author": {
+        "name": "Elena Martinez",
+        "published_date": "2023-08-21"
+       
+      },
+      "thumbnail_url": "https://newcdn.kalkifashion.com/media/catalog/product/s/g/sg186900_5_.jpg?aio-w=800",
+      "image_url": "https://newcdn.kalkifashion.com/media/catalog/product/s/g/sg186900_5_.jpg?aio-w=800",
+      "details": "Color: Teal
+      Fabric: Cotton silk
+      Work: Embroidery
+      Closure: None
+      Neck Line: V-Neckline
+      Sleeves: 3/4th Sleeve
+      Can Can: No
+      Pack Contains: 1 kurta, 1 pant, 1 dupatta
+      Manufactured / Packed by : Suarabhakti Goods Pvt ltd
+      There may be slight color variation depending on the screen one is looking through and once you receive the product.
+      Inclusive of all taxes
+      Perfect choice for celebratory occasions, this teal set exudes and elegant and classy vibe.
+      Accentuated with gota patti trims and sparkly sequin, the kurta features a V-neckline and three-quarter sleeves.
+      Paired with pants and a contrast dupatta, this cotton silk outfit lends a comfortable fit.
+      Gentle wash required.
+      Avoid mothball use.
+      Slight variation in color is possible due to digital photography.
+      Being rewarded as the most trusted brand our customers too believe we deliver the same styles as promised on the website."
+    },
+    {
+      "id": "302",
+      "category_id": "3",
+      "category": "Culture",
+      "rating": { "number": 3.9, "badge": "Good" },
+      "total_view": 687,
+      "title": "Red Cotton Silk Kurta Set With Gota Patti Trims",
+      "author": {
+        "name": "Daniel Nguyen",
+        "published_date": "2023-08-20"
+      },
+      "thumbnail_url": "https://newcdn.kalkifashion.com/media/catalog/product/a/p/apple_red_saree_in_silk_with_diagonal_stripes_and_red_brocade_bandhani_pallu_and_border_along_with_unstitched_blouse_online_-_kalki_fashion_-_sg70659_2_.jpg",
+      "image_url": "https://newcdn.kalkifashion.com/media/catalog/product/a/p/apple_red_saree_in_silk_with_diagonal_stripes_and_red_brocade_bandhani_pallu_and_border_along_with_unstitched_blouse_online_-_kalki_fashion_-_sg70659_2_.jpg",
+      "details": "Color: Red
+      Fabric: Cotton silk
+      Work: Embroidery
+      Closure: None
+      Neck Line: V-Neckline
+      Sleeves: 3/4th Sleeve
+      Can Can: No
+      Pack Contains: 1 kurta, 1 pant, 1 dupatta
+      Manufactured / Packed by : Suarabhakti Goods Pvt ltd
+      There may be slight color variation depending on the screen one is looking through and once you receive the product.
+      Inclusive of all taxes
+      Presenting our exquisite red kurta set that will help you exhibit style and confidence.
+      Detailed with gota patti trims and sequin embellishments, the kurta showcases a V-neckline and three-quarter sleeves.
+      Paired with pants and a contrast dupatta, this cotton silk outfit is an apt choice for festive dinners.
+      Gentle wash required.
+      Avoid mothball use.
+      Slight variation in color is possible due to digital photography.
+      Being rewarded as the most trusted brand our customers too believe we deliver the same styles as promised on the website."
+    },
+    {
+      "id": "303",
+      "category_id": "3",
+      "category": "Culture",
+      "rating": { "number": 4.3, "badge": "Very Good" },
+      "total_view": 575,
+      "title": "Pink Saree In Crepe Organza With Marble Foil Print And Sequins Embroidery",
+      "author": {
+        "name": "Sophie Thompson",
+        "published_date": "2023-08-19",
+      
+      },
+      "thumbnail_url": "https://newcdn.kalkifashion.com/media/catalog/product/r/e/red_festive_saree_in_crepe_with_lurex-sg148270_7_.jpg?aio-w=800",
+      "image_url": "https://newcdn.kalkifashion.com/media/catalog/product/r/e/red_festive_saree_in_crepe_with_lurex-sg148270_7_.jpg?aio-w=800",
+      "details": "Color: Pink
+      Fabric: Organza
+      Work: Cut Dana
+      Pack Contains: 1 Saree , 1 Unstitched Blouse
+      Dimension: Length: 5.5 metres plus 0.8 metre blouse piece (approx.) Width: 1.10 metres
+      Manufactured / Packed by : Suarabhakti Goods Pvt ltd
+      There may be slight color variation depending on the screen one is looking through and once you receive the product.
+      Inclusive of all taxes
+      This saree comes in fusion shades of red and pink with foil print.
+      The saree has a scallop border embroidered in sequins and cut dana.
+      It comes with a matching unstitched blouse.
+      A perfectly elegant choice to wear for DIWALI and FESTIVE OCCASIONS.
+      NOTE - The blouse in the image is designed for styling purposes.
+      WASH CARE INSTRUCTIONS - Please dry clean only when it is applicable.
+      Actual color may slightly vary due to photographic lighting sources and device screen settings.
+      Being rewarded as the most trusted brand our customers too believe we deliver the same styles as promised on the website."
+    },
+    {
+      "id": "304",
+      "category_id": "3",
+      "category": "Culture",
+      "rating": { "number": 3.7, "badge": "Good" },
+      "total_view": 754,
+      "title": "Petal Pink Organza Saree With Vibrant Floral Print And Cutdana Work",
+      "author": {
+        "name": "Mia Johnson",
+        "published_date": "2023-08-18",
+        
+      },
+      "thumbnail_url": "data:image/jpeg;base64,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",
+      "image_url": "data:image/jpeg;base64,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",
+      "details": "Color: Pink
+      Fabric: Organza
+      Work: Cut Dana
+      Pack Contains: 1 Saree , 1 Unstitched Blouse
+      Dimension: Length: 5.5 metres plus 0.8 metre blouse piece (approx.) Width: 1.10 metres
+      Manufactured / Packed by : Suarabhakti Goods Pvt ltd
+      There may be slight color variation depending on the screen one is looking through and once you receive the product.
+      Inclusive of all taxes
+      Indulge in elegance with our exquisite organza saree beautifully adorned with a lively floral print.
+      This saree features a scallop border adorned with intricate cutdana work.
+      Enhancing its allure the saree showcases delicate cutdana butti work meticulously scattered throughout for a captivating effect.
+      EVENT - Ideal for daytime celebrations and gatherings.
+      The saree comes with an unstitched blouse fabric.
+      NOTE - The blouse worn by the model is for styling purpose only.
+      WASH CARE INSTRUCTIONS - Please dry clean only when it is applicable.
+      Actual color may slightly vary due to photographic lighting sources and device screen settings.
+      Being rewarded as the most trusted brand our customers too believe we deliver the same styles as promised on the website"
+    },
+    {
+      "id": "401",
+      "category_id": "4",
+      "category": "Event",
+      "rating": { "number": 4.7, "badge": "Excellent" },
+      "total_view": 1298,
+      "title": "Mustard Yellow Embroidered Saree In Organza With Vibrant Floral Print",
+      "author": {
+        "name": "Michael Anderson",
+        "published_date": "2023-08-21",
+      },
+      "thumbnail_url": "https://newcdn.kalkifashion.com/media/catalog/product/m/u/mustard_yellow_organza_saree_with_moti-sg148121_10_.jpg?aio-w=1600",
+      "image_url": "https://newcdn.kalkifashion.com/media/catalog/product/m/u/mustard_yellow_organza_saree_with_moti-sg148121_10_.jpg?aio-w=1600",
+      "details": "Color: Mustard
+      Fabric: Organza
+      Work: Cut Dana
+      Pack Contains: 1 Saree , 1 Unstitched Blouse
+      Dimension: Length: 5.5 metres plus 0.8 metre blouse piece (approx.) Width: 1.10 metres
+      Manufactured / Packed by : Suarabhakti Goods Pvt ltd
+      There may be slight color variation depending on the screen one is looking through and once you receive the product.
+      Inclusive of all taxes
+      Indulge in elegance with our exquisite organza saree beautifully adorned with a lively floral print.
+      This saree showcases a cutdana work scallop border that adds a touch of sophistication.
+      Enhancing its allure the saree showcases delicate cutdana butti work meticulously scattered throughout for a captivating effect.
+      EVENT - Ideal for daytime celebrations and gatherings.
+      The saree comes with an unstitched blouse fabric.
+      NOTE - The blouse worn by the model is for styling purpose only.
+      WASH CARE INSTRUCTIONS - Please dry clean only when it is applicable.
+      Actual color may slightly vary due to photographic lighting sources and device screen settings.
+      Being rewarded as the most trusted brand our customers too believe we deliver the same styles as promised on the website."
+    },
+    {
+      "id": "402",
+      "category_id": "4",
+      "category": "Event",
+      "rating": { "number": 4.1, "badge": "Very Good" },
+      "total_view": 834,
+      "title": "Green Brocade Kurta And Pant Co-ord Set",
+      "author": {
+        "name": "Emily Roberts",
+        "published_date": "2023-08-20",
+        "img": "https://xsgames.co/randomusers/assets/avatars/male/47.jpg"
+      },
+      "thumbnail_url": "https://newcdn.kalkifashion.com/media/catalog/product/g/r/green_cotton_kurta-sg172976_3_.jpg?aio-w=1200",
+      "image_url": "https://newcdn.kalkifashion.com/media/catalog/product/g/r/green_cotton_kurta-sg172976_3_.jpg?aio-w=1200",
+      "details": "Color: Green
+      Fabric: Brocade
+      Work: Print
+      Neck Line: Mandarin Collar
+      Sleeves: Full Sleeves
+      Manufactured / Packed by : Suarabhakti Goods Pvt ltd
+      There may be slight color variation depending on the screen one is looking through and once you receive the product.
+      Inclusive of all taxes
+      A feel-good style you will love to wear during the wedding season is this vibrant kurta set.
+      The kurta features a Mandarin collar full-sleeves and front-button closure.
+      Paired with coordinating pants this attire is rich in pattern and style.
+      Comfortable and easy-to-wear this set is crafted from luxe fabrics.
+      Dry-clean only if required.
+      Slight variation in color is possible due to digital photography.
+      Being rewarded as the most trusted brand our customers too believe we deliver the same styles as promised on the website."
+    },
+    {
+      "id": "403",
+      "category_id": "4",
+      "category": "Event",
+      "rating": { "number": 3.8, "badge": "Good" },
+      "total_view": 1065,
+      "title": "Green Silk Printed Lehenga Set",
+      "author": {
+        "name": "Jonathan Miller",
+        "published_date": "2023-08-19",
+        "img": "https://xsgames.co/randomusers/assets/avatars/male/47.jpg"
+      },
+      "thumbnail_url": "https://i0.wp.com/www.ritzmagazine.in/wp-content/uploads/2020/07/Kalki-Fashion-7.jpg?fit=640%2C800&ssl=1",
+      "image_url": "https://i0.wp.com/www.ritzmagazine.in/wp-content/uploads/2020/07/Kalki-Fashion-7.jpg?fit=640%2C800&ssl=1",
+      "details": "Color: Green
+      Fabric: Silk
+      Work: Print
+      Closure: Back Hook-Eye
+      Neck Line: Sweetheart Neckline
+      Sleeves: Half Sleeve
+      Can Can: Yes
+      Pack Contains: 1 lehenga 1 blouse 1 dupatta
+      Manufactured / Packed by : Suarabhakti Goods Pvt ltd
+      There may be slight color variation depending on the screen one is looking through and once you receive the product.
+      Inclusive of all taxes
+      Flaunt your elegant style in this stunning lehenga set thats an absolute keeper.
+      Fashioned in rich silk it displays exquisite prints and delicate Swarovski work.
+      Paired with a sleeveless blouse and complementing dupatta this set of three adds grace and charm to every event.
+      Gentle wash required.
+      Avoid mothball use.
+      Slight variation in color is possible due to digital photography.
+      Being rewarded as the most trusted brand our customers too believe we deliver the same styles as promised on the website."
+    },
+    {
+      "id": "404",
+      "category_id": "4",
+      "category": "Event",
+      "rating": { "number": 4.4, "badge": "Very Good" },
+      "total_view": 983,
+      "title": "Green Cotton Kurta And Dola Silk Pant Set With Embroidery",
+      "author": {
+        "name": "Alex Harris",
+        "published_date": "2023-08-18",
+        "img": "https://xsgames.co/randomusers/assets/avatars/male/47.jpg"
+      },
+      "thumbnail_url": "https://newcdn.kalkifashion.com/media/catalog/product/g/r/green_cotton_kurta-sg172976_4_.jpg?aio-w=800",
+      "image_url": "https://newcdn.kalkifashion.com/media/catalog/product/g/r/green_cotton_kurta-sg172976_4_.jpg?aio-w=800",
+      "details": "Color: Green
+      Fabric: Cotton
+      Work: Self work
+      Neck Line: Mandarin Collar
+      Sleeves: Full Sleeves
+      Manufactured / Packed by : Suarabhakti Goods Pvt ltd
+      There may be slight color variation depending on the screen one is looking through and once you receive the product.
+      Inclusive of all taxes
+      Accentuated with highlighted collar and front patti don this light green two-piece set to make a statement at the next festive gathering.
+      The self embroidery and Mandarin collar add to its depth.
+      Fabricated on comfortable cotton this ensemble comes with dola silk pants.
+      Dry-clean only if required.
+      Slight variation in color is possible due to digital photography.
+      Being rewarded as the most trusted brand our customers too believe we deliver the same styles as promised on the website."
+    }
+  ]
